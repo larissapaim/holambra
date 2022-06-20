@@ -1,7 +1,7 @@
 {
-  "name": "holambra",
+  "name": "holambra-github",
   "version": "1.0.0",
-  "description": "Curiosidade sobre Holambra!",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "serve",
